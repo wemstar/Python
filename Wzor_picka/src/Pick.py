@@ -24,7 +24,7 @@ def licz_pole(czarny,szary):
     c=abs(c)
     s=abs(s)
     
-    s=c*5+(s-c)*3
+    s=c*5+(s-c)*4
     return s
         
         

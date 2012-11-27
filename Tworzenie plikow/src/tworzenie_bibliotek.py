@@ -1,6 +1,7 @@
 
 import sys
-
+class PlikNaglowkowy:
+    pass
 def main():
     for ar in sys.argv[0:]:
         utworz_biblioteke(ar)
