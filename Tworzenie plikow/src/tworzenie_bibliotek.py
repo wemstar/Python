@@ -5,7 +5,7 @@ class PlikNaglowkowy:
         self.nazwa=nazwa
         self.wzor="""
 #pragma once
-    
+    //
 class {0}
 {{
     public:
