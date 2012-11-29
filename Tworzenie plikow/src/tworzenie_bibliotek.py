@@ -1,4 +1,4 @@
-#! /usr/bin/env/python
+#! /usr/bin/env/pyt
 import sys
 class PlikNaglowkowy:
     def __init__(self,nazwa):
